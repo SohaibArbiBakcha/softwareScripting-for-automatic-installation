@@ -1,7 +1,7 @@
 ﻿# Scripting for automatic installation
 
 This script enables you to install command-line programs
-using [Chocolatey](https://chocolatey.org/) and [Powershell](https://docs.microsoft.com/en-us/powershell/) .
+using [Chocolatey](https://chocolatey.org/) and [Powershell](https://docs.microsoft.com/en-us/powershell/) , and here is the [Pakages](https://docs.microsoft.com/en-us/powershell/).
 
 to add new program you can download the script and modfiy the Packege list and add or remove programs .
 
